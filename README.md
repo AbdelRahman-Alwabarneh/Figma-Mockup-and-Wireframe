@@ -1,6 +1,6 @@
 # Figma-Mockup-and-Wireframe
 
-## Get To [Figma](https://www.figma.com/design/woaCoF3xjaY7ctd9sSWCed/Task-1?node-id=0-1&t=MkhsgCvUcVk3e2f0-0).
+## Go To [Figma](https://www.figma.com/design/woaCoF3xjaY7ctd9sSWCed/Task-1?node-id=0-1&t=MkhsgCvUcVk3e2f0-0).
 
 ## About Us
 
@@ -59,4 +59,4 @@ We offer a range of VPS plans designed to suit different requirements and budget
 - **24/7 Support**: Our dedicated support team is available around the clock to assist you with any issues.
 - **Affordable Pricing**: We offer competitive pricing without compromising on quality.
 
-## Get To [Figma](https://www.figma.com/design/woaCoF3xjaY7ctd9sSWCed/Task-1?node-id=0-1&t=MkhsgCvUcVk3e2f0-0).
+## Go To [Figma](https://www.figma.com/design/woaCoF3xjaY7ctd9sSWCed/Task-1?node-id=0-1&t=MkhsgCvUcVk3e2f0-0).
