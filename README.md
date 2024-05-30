@@ -1,6 +1,6 @@
 # Figma-Mockup-and-Wireframe
 
-## Go To [Figma](https://www.figma.com/design/woaCoF3xjaY7ctd9sSWCed/Task-1?node-id=0-1&t=MkhsgCvUcVk3e2f0-0).
+## Go To [Figma](https://www.figma.com/design/woaCoF3xjaY7ctd9sSWCed/Task-1?node-id=0-1&t=uKqJpVktnLgjKO21-1).
 
 ## About Us
 
